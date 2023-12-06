@@ -2,7 +2,7 @@ import os
 from setuptools import setup
 
 setup(
-    name = "wcf-binary parser",
+    name = "wcf",
     version = "0.5.3",
     author = "Timo Schmid",
     author_email = "tschmid@ernw.de",
